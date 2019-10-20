@@ -1,0 +1,9 @@
+# Algoritmo SimulacaoVotos
+
+O algoritmo realiza:
+- A leitura dos votos e da idade do eleitor.
+
+O algoritmo apresenta:
+- O percentual dos votos.
+
+

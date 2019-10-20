@@ -1,0 +1,11 @@
+# Algoritmo ExemploMatriz
+
+O algoritmo realiza:
+- A inserção de dados em dois vetores A e B
+- Realiza a soma dos vetores A e B no vetor C
+- Realiza a verificação se o resultado contido nos índices de C são
+maiores que 10 caso seja insere o número no vetor D, caso contrario insere 0.
+
+O algoritmo apresenta:
+- Os dados armazenados na matriz em cada linha.
+

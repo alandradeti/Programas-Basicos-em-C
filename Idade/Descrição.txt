@@ -1,0 +1,10 @@
+# Algoritmo Idade
+
+O algoritmo realiza:
+- A leitura da idade.
+- Caso seja menor de idade, verifica se o RG é valido.
+
+
+O algoritmo apresenta:
+- Entrada liberada ou proibida.
+

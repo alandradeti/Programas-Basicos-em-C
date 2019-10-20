@@ -1,0 +1,11 @@
+# Algoritmo MediaAluno
+
+O algoritmo realiza:
+- A leitura das notas de um aluno.
+- Caso o aluno estiver em exame a leitura da nota do exame.
+
+O algoritmo apresenta:
+- A soma das notas.
+- Media das notas.
+- Se o aluno foi aprovado ou reprovado.
+

@@ -1,0 +1,8 @@
+# Algoritmo ReajusteSalarial
+
+O algoritmo realiza:
+- A leitura do salário atual.
+
+O algoritmo apresenta:
+- O reajuste do salário conforme o salário atual.
+

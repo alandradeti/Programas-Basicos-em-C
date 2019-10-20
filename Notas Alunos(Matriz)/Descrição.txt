@@ -1,0 +1,8 @@
+# Algoritmo Notas_Alunos
+
+O algoritmo realiza:
+- A leitura das notas de 10 alunos e armazena elas em uma matriz
+
+O algoritmo apresenta:
+- Se o aluno foi aprovado ou reprovado com o uso de números (1)-Aprovado | (3)-Reprovado
+

@@ -1,0 +1,8 @@
+# Algoritmo Par_Impar
+
+O algoritmo realiza:
+- A leitura de um número
+
+O algoritmo apresenta:
+- Se o número digitado é par ou ímpar
+

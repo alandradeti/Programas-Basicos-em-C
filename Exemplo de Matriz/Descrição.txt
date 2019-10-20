@@ -1,0 +1,8 @@
+# Algoritmo ExemploMatriz
+
+O algoritmo realiza:
+- A inserção de dados inteiros em uma matriz 3x3.
+
+O algoritmo apresenta:
+- Os dados armazenados na matriz em cada linha.
+
