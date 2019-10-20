@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//Autor: Ailton Lima de Andrade
 void main(){
 	int idade;
 	char rg[3];

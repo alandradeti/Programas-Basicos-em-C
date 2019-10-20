@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Autor: Ailton Lima de Andrade
 void main(){
 	int max, pessoas, idade, fidade, resp, resp2;
 	float pvd, pva, pvn, pvdfavor, pvdcontra, pvdsop, pvafavor, pvacontra, pvasop, pvnfavor, pvncontra, pvnsop;
