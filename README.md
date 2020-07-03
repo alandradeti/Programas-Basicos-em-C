@@ -7,4 +7,4 @@ Neste repositório encontram-se diversos códigos, que trazem soluções de prob
 -Conhecimento da liguagem<br>
 -Declaração de váriavéis<br>
 -Tipos de dados<br>
--Estrutura
+-Estruturas
